@@ -16,7 +16,7 @@
   - [Xiaomiui Shot On 📸](https://t.me/xiaomiuishoton)
   - [Tech in Deep | Technology Group](https://t.me/techindeepgroup)
   
-- App
+- Apps
   -
   - [Xiaomiui: Download MIUI, Chatrooms, News](https://play.google.com/store/apps/details?id=com.xiaomiui)
   - [MIUI Downloader | MIUI News & MIUI](https://play.google.com/store/apps/details?id=com.xiaomiui.downloader)
