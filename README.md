@@ -19,6 +19,7 @@
 - App
   -
   - [Xiaomiui: Download MIUI, Chatrooms, News](https://play.google.com/store/apps/details?id=com.xiaomiui)
+  - [MIUI Downloader | MIUI News & MIUI](https://play.google.com/store/apps/details?id=com.xiaomiui.downloader)
   
   
 - Other Languages
