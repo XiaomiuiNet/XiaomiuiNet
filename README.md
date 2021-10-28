@@ -31,3 +31,7 @@
   - [Xiaomiui German Group](https://t.me/xiaomiuidegruppe)
   - [Xiaomiui Chinese Group](https://t.me/xiaomigrupcn)
   - [Xiaomiui Italian Group](https://t.me/xiaomiuiita)
+  - [Xiaomiui Urdu Channel](https://t.me/xiaomiui_pk)
+  - [Xiaomiui Urdu Group](https://t.me/xiaomiuipk)
+
+
